@@ -18,7 +18,7 @@ Brenda McCowan
  From then on a debate started if and how **Zipf's Law** can be useful in context of discovering underlying structure of unknown communication systems. The law has been used not only to study **dolphins** but also in search for **extraterrestrial intelligence** (https://www.seti.org/seti-institute/animal-communication-information-theory-and-seti)
 
 <br>
-<img src="http://www.industrytap.com/wp-content/uploads/2016/10/seti-e1476134762199.jpg" width=500px/>
+<img src="http://www.industrytap.com/wp-content/uploads/2016/10/seti-e1476134762199.jpg" width=700px/>
 <br>
 
 ### The debate continues
