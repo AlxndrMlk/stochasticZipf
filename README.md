@@ -1,6 +1,6 @@
 # Zipf's distribution from stochastic process
 
-A Python 3 replication of Zipf's Law slope generated using stochastic process
+A Python 3 replication of Zipf's Law slope generated using stochastic process based on Suzuki et al., 2005.
 
   **Zipf's Law** states that *"given some corpus of natural language utterances, the frequency of any word is inversely proportional to its rank in the frequency table"* (https://en.wikipedia.org/wiki/Zipf%27s_law)
 
@@ -12,6 +12,8 @@ Brenda McCowan
 
 
   **Zipf's Law** became famous when **Brenda McCowan** (McCowan et al., 1999) and her team applied it to study bottlenose **dolphin communication** and to compare it to humans.
+  
+<img src="https://www.natgeokids.com/wp-content/uploads/2014/06/dolphins-facts-5s.jpg" width=150px align='center'/>
 
  From then on a debate started if and how **Zipf's Law** can be useful in context of discovering underlying structure of unknown communication systems. The law has been used not only to study **dolphins** but also in search for **extraterrestrial intelligence** (https://www.seti.org/seti-institute/animal-communication-information-theory-and-seti)
 
