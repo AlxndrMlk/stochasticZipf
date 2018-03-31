@@ -13,7 +13,11 @@ Brenda McCowan
 
   **Zipf's Law** became famous when **Brenda McCowan** (McCowan et al., 1999) and her team applied it to study bottlenose **dolphin communication** and to compare it to humans.
   
-<img src="https://www.natgeokids.com/wp-content/uploads/2014/06/dolphins-facts-5s.jpg" width=150px align='center'/>
+### Dolphins and extraterrestrial intelligence
+  
+<div style="text-align:center">
+ <img src="https://www.natgeokids.com/wp-content/uploads/2014/06/dolphins-facts-5s.jpg" width=150px align='center'/>
+</div>
 
  From then on a debate started if and how **Zipf's Law** can be useful in context of discovering underlying structure of unknown communication systems. The law has been used not only to study **dolphins** but also in search for **extraterrestrial intelligence** (https://www.seti.org/seti-institute/animal-communication-information-theory-and-seti)
 
