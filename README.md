@@ -19,12 +19,11 @@ Brenda McCowan
 
 <br>
  
-<img src="https://www.natgeokids.com/wp-content/uploads/2014/06/dolphins-facts-5s.jpg" width=150px align='middle'/>
-<br>
-<img src="http://www.industrytap.com/wp-content/uploads/2016/10/seti-e1476134762199.jpg" width=150px/>
+<img src="https://www.natgeokids.com/wp-content/uploads/2014/06/dolphins-facts-5s.jpg" width=200px/>
+<img src="http://www.industrytap.com/wp-content/uploads/2016/10/seti-e1476134762199.jpg" width=2000px/>
 <br>
 
-### Debate continues
+### The debate continues
 
 Some authors propose that *"Zipf's law is required by symbolic systems"* or even that it is *"a hallmark of symbolic reference and not a meaningless feature"* (Cancho & Solé, 2003). Others argue that *"even a simple stochastic mechanism, such as a die-rolling trial, satisfies Zipf's law"* (Suzuki et al., 2005).
 
