@@ -9,7 +9,7 @@ A Python 3 replication of Zipf's Law slope generated using stochastic process ba
 <img src="https://secure.vetmed.ucdavis.edu/public/utilities/getbase64Image.cfm?mivid=14652" width=100px/>
 Brenda McCowan
 
-<br>
+<br><br>
 
   **Zipf's Law** became famous when **Brenda McCowan** (McCowan et al., 1999) and her team applied it to study bottlenose **dolphin communication** and to compare it to humans.
   
