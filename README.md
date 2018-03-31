@@ -20,7 +20,8 @@ Brenda McCowan
 <br>
  
 <img src="https://www.natgeokids.com/wp-content/uploads/2014/06/dolphins-facts-5s.jpg" width=150px align='middle'/>
-
+<br>
+<img src="http://www.industrytap.com/wp-content/uploads/2016/10/seti-e1476134762199.jpg" width=150px/>
 <br>
 
 ### Debate continues
