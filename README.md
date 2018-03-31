@@ -3,6 +3,8 @@
 A Python 3 replication of Zipf's Law slope generated using stochastic process based on Suzuki et al., 2005.
 
   **Zipf's Law** states that *"given some corpus of natural language utterances, the frequency of any word is inversely proportional to its rank in the frequency table"* (https://en.wikipedia.org/wiki/Zipf%27s_law)
+  
+  The law is named after American linguist and philologist who studied statistical occurrences in different languages **George Kingsley Zipf**. Zipf *"theorised that the distribution of word use was due to tendency to communicate efficiently with least effort"* (https://en.wikipedia.org/wiki/Principle_of_least_effort). It seems that in all the languages short words are more frequently used than the long ones.
 
 ## Some history
 
