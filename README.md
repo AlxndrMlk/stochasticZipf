@@ -32,9 +32,11 @@ Some authors propose that *"Zipf's law is required by symbolic systems"* or even
 
 This notebook replicates the procedure (Die-rolling example) form Suzuki et al. (2005).
 
-Although a stochastic process can produce **Zipf's slope** (Suzuki et al., 2005), McCowan et al. (2005) propose that **Zipf's Law** can be useful in differential context (i.e. monitoring communication system development). 
+Although a stochastic process can produce **Zipf's slope** (Suzuki et al., 2005), McCowan et al. (2005) propose that **Zipf's Law** can be useful in differential context:
 
-What if we apply it to study typical vs **atypical language acquisition** in human children? Would it help us learn something new?
+*"McCowan et al. (1999, 2002) agree that the Zipf slope is linguistically shallow. Zipf statistic is linguistically shallow because it tells us nothing about the relationship between signals in a repertoire (e.g. the higher-order entropies). But this fact has no bearing on its utility as a comparative tool at the repertoire (i.e. first-order approximation to the entropy) level"* (McCowan et al., 2005)
+
+What if we apply Zipf's slope to study typical vs **atypical language acquisition** in human children? Would it help us learn something new?
 
 
 ## References
