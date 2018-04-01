@@ -36,7 +36,9 @@ Although a stochastic process can produce **Zipf's slope** (Suzuki et al., 2005)
 
 *"McCowan et al. (1999, 2002) agree that the Zipf slope is linguistically shallow. Zipf statistic is linguistically shallow because it tells us nothing about the relationship between signals in a repertoire (e.g. the higher-order entropies). But this fact has no bearing on its utility as a comparative tool at the repertoire (i.e. first-order approximation to the entropy) level"* (McCowan et al., 2005)
 
-What if we apply Zipf's slope to study typical vs **atypical language acquisition** in human children? Would it help us learn something new?
+It is also *"interesting to ask why the sequences from the die-rolling game follow Zipf's statistic: the answer is that ‘they are designed purposefully to do so’; that is, shorter words are favoured over longer words. A similar argument is used in justifying Zipf's law by his principle of least effort: if it costs energy to communicate, then it makes sense to have the most common words be short "* (McCowan et al., 2005).
+
+Finally, McCowan et al. (2005) conclude that *"Zipf's ‘law’ remains a useful tool to identify potential presence or changes in n-gram structure in a signalling data set if applied correctly"*.
 
 
 ## References
