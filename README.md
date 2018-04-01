@@ -32,8 +32,7 @@ Some authors propose that *"Zipf's law is required by symbolic systems"* or even
 
 This notebook replicates the procedure (Die-rolling example) form Suzuki et al. (2005).
 
-Although stochastic process can produce **Zipf's slope**, it seems that **Zipf's Law** still can be useful in diferential context (i.e. communication system development) - check McCowan et al., 2005 for details.
-
+Although a stochastic process can produce **Zipf's slope** (Suzuki et al., 2005), McCowan et al. (2005) propose that **Zipf's Law** can be useful in differential context (i.e. monitoring communication system development). What if we apply it to study typical vs **atypical language acquisition** in human children? Would it help us learn something new?
 
 
 ## References
