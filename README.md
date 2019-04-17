@@ -11,7 +11,8 @@ A Python 3 replication of Zipf's Law slope generated using stochastic process ba
 ## Some history
 
 <img src="https://bmccowanlabcom.files.wordpress.com/2018/09/brendaphotocurrent2-e1536791868683.png" width=200px/>
-[Brenda McCowan](https://bmccowanlab.com/lab-members/senior-staff/brenda-mccowan/)
+
+[Brenda McCowan](https://bmccowanlab.com/lab-members/senior-staff/brenda-mccowan)
 <br>
 <br>
 
